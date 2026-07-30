@@ -1,7 +1,6 @@
 # Hi, I'm Shashank N S 👋
 
-## Software Engineer Intern @ Qualcomm
-
+ECE'27 @ PESITM | Embedded Systems | C/C++ | Linux | RTOS | Aspiring Software Engineer
 Electronics & Communication Engineering Student (ECE'27) at PESITM
 
 I enjoy building embedded software, Linux-based systems, firmware, and intelligent edge devices.
