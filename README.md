@@ -58,7 +58,7 @@ I enjoy building embedded software, Linux-based systems, firmware, and intellige
 
 ## Connect with Me
 
-- LinkedIn (Coming Soon)
+- LinkedIn https://linkedin.com/in/shashank-embedded
 - Email: sns580799@gmail.com
 
 ---
